@@ -123,4 +123,6 @@ elif programwahl=='Fullauto':
         print('ihre Eingabe: ',usr,'\ndie Lotto-Zahlen: ', Lottozahlen,'\n\nSie haben ',Tippedrightcount,' richt getippt. Bei', versuche, 'versuchen. Die Prozentuale chance auf 1-mal richtig getippt war' ,versuche/Tippedrightcount,'%')
     else:
         print('Sie haben kein einzigen richtig getippt. suchen sie sich einen Job, mit Glücksspiel wird es bei ihnen nichts wird....')
+else:
+    print('Bitte neustarten und Eingabe ohne Fehler eingeben.')
 #©Tobikiss. https://github.com/Tobikisss/Lotto-german-
